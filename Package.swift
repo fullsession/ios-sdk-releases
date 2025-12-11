@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FullSessionIos",
-            url: "https://ios-releases.fullsession.io/releases/FullSessionIos-0.1.1.xcframework.zip", 
-            checksum: "91f7c72bfa7751fb45b237af996048e62f1fde143480611f936419520636e660"
+            url: "https://ios-releases.fullsession.io/releases/FullSessionIos-0.1.2.xcframework.zip", 
+            checksum: "f72500d3d24bf5593f0c15bd4553516618a6b668dffa316a3cfce48684615675"
         )
     ]
 )
