@@ -1,7 +1,7 @@
 # FullSessionIos
 
-**Version:** 0.1.2  
-**Date:** 2025-12-11
+**Version:** 0.1.3  
+**Date:** 2025-12-14
 
 ## Installation
 
@@ -10,14 +10,14 @@
 2. Navigate to **File > Add Package Dependencies...**
 3. Paste the Repository URL:
    `https://github.com/fullsession/ios-sdk-releases`
-4. Select Version: **0.1.2** (or "Up to Next Major")
+4. Select Version: **0.1.3** (or "Up to Next Major")
 
 ### Option 2: Swift Package Manager
 Add the following to your `Package.swift` manifest:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/fullsession/ios-sdk-releases", from: "0.1.2")
+    .package(url: "https://github.com/fullsession/ios-sdk-releases", from: "0.1.3")
 ],
 targets: [
     .target(
